@@ -40,8 +40,7 @@ Dolt is a simple and interactive To-Do List web application that helps users man
 
 🔗 Live Demo
 
-👉 https://your-demo-link.com
-
+👉 https://harshanrepo.github.io/DoIt/
 ## 🙌 Acknowledgment
 
 This project was built to practice JavaScript fundamentals and improve front-end development skills.
