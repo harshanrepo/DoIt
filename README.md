@@ -38,9 +38,9 @@ Dolt is a simple and interactive To-Do List web application that helps users man
 * 💾 Save tasks using Local Storage
 * 🌙 Dark mode
 
-## 📸 Preview
+🔗 Live Demo
 
-(Add screenshot here)
+👉 https://your-demo-link.com
 
 ## 🙌 Acknowledgment
 
