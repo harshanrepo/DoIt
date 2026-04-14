@@ -2,7 +2,7 @@
 
 ## 📌 Overview
 
-DOlt is a simple and interactive To-Do List web application that helps users manage their daily tasks. Users can add and remove tasks dynamically with real-time updates.
+Dolt is a simple and interactive To-Do List web application that helps users manage their daily tasks. Users can add and remove tasks dynamically with real-time updates.
 
 ## 🚀 Features
 
