@@ -23,8 +23,8 @@ DOlt is a simple and interactive To-Do List web application that helps users man
 ```
 📁 TaskFlow
  ┣ 📄 index.html
- ┣ 📄 style.css
- ┗ 📄 script.js
+ ┣ 📄 index.css
+ ┗ 📄 index.js
 ```
 
 ## ▶️ How to Run
