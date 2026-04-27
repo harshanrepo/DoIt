@@ -33,6 +33,7 @@ body{
     column-gap: 10px;
     row-gap: 10px;
     align-items: stretch;
+    font-size: 15px;
 }
 .todo-grid{
     align-items: center;

@@ -1,10 +1,4 @@
 const arr=[]
-function adding(event){
-    if(event.key ==='Enter'){
-        add()
-    }
-}
-
 function add(){
     const inputElement=document.querySelector('#todo-list')
     const DateInputElement=document.querySelector('#date')
