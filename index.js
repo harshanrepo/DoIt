@@ -20,6 +20,7 @@ function display(){
         let html=`
         <div>→  ${name}</div>
         <div>${due_date}</div>
+        
         <button onclick="arr.splice(${index},1);
         display();" id="delete">
         Delete</button>`
